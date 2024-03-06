@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> teste </h1>
+    <h2>teste de texto</h2>
+
+    <p>A própria palavra, a <strong>dor</strong> deve ser <em>seguida</em> pela adipiscinação do desenvolvedor. Para alguns
+        aqui eles não sabem que receberão dor.
+        Os problemas são resolvidos de outras maneiras, a culpa é trabalhosa, mas <strong>fazê-los</strong>.</p>
+
+        <p>Resolva a equação X <sup> 2</sup> + Y <sup> 3</sup></p>
+
+
+</body>
+</html>
