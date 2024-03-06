@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formação de texto</title>
+</head>
+<body>
+    <h1>As tags de formataçao de texto
+        <h2>Para exemplificar a formatação de texto vamos de <mark> Psicologia das cores</mark></h2>
+       
+        <p>Psicologia das cores consiste em um estudo aprofundado sobre <strong>como o celebro identifica as cores</strong>
+        existentes e as tranforma em sensações ou emoções.</p>
+
+        <p>Este é um estudo psicologico que, junto com os conhecimento da <strong>Teoria das cores</strong>, ajuda a compreender a
+        <mark> influência das cores nas emoções e nos sentimos de quem as perrcebe</mark>.</p>
+
+        <p>Este paragrafo não esta conectado com texto acima, mas vou utliza-lo para a forma de ácido sulfurico
+            que é H <sub>2</sub> SO <sub>4</sub> e também para escrever a equação X <sup>2</sup> + X <sup>3</sup>-3</p>
+    </h1>
+</body>
+</html>
